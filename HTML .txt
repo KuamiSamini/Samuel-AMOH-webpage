@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samuel A. AMOH - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: white;
+            color: black;
+        }
+
+        header {
+            background-color: blue;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+
+        h1 {
+            color: red;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Samuel A. AMOH</h1>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>
+            My name is Samuel A. AMOH. I had my basic education in Akyem Gyadam and later continued at Oda Nkawanta Methodist Junior High School. After completing my junior high school education in 2015, I gained admission to study General Science at Oda Senior High School.
+            In 2020, I was admitted to study BSc Industrial Engineering at the Kwame Nkrumah University of Science and Technology. Later, I received a scholarship to study abroad in Canada, where I am currently pursuing Computer Aided Design (CAD) Technician.
+        </p>
+        <!-- Add more sections or details here as needed -->
+    </div>
+</body>
+
+</html>
